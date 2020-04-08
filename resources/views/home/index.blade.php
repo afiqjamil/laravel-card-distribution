@@ -58,14 +58,6 @@
         </div>
     </div>
 </div>
-<div class="row">
-    <div class="col-sm-4 sticky-top">
-
-    </div>
-    <div class="col-sm-6 table-responsive">
-
-    </div>
-</div>
 
 <script src="{{ asset('jquery/jquery-3.4.1.min.js') }}"></script>
 
